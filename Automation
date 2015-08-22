@@ -1,0 +1,12 @@
+Automated test case for few activities on Mobile App using Monkey Runner:
+
+from com.android.monekyrunner import MonkeyRunner #Imports monkeyrunner modules
+from com.android.monekyrunner import MonkeyDevice #Imports monkeyrunner modules
+
+#Assuming we have connected a device
+device-MonkeyRunner.waitForConnection()
+
+#Installing package
+
+
+
